@@ -1,0 +1,14 @@
+D:\learning .Net\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+D:\learning .Net\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+D:\learning .Net\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+D:\learning .Net\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+D:\learning .Net\LibrarySystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+D:\learning .Net\LibrarySystem\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
